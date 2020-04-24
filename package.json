@@ -1,0 +1,19 @@
+{
+  "name": "wt-config",
+  "version": "1.0.0",
+  "description": "placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TheWorldTable/wt-config.git"
+  },
+  "author": "mscalora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheWorldTable/wt-config/issues"
+  },
+  "homepage": "https://github.com/TheWorldTable/wt-config#readme"
+}
